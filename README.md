@@ -21,8 +21,8 @@ End the program
 ## Program:
 ```python
 #Program to circulate N values.
-#Developed by: R LAKSHANA
-#RegisterNumber: 22004909
+#Developed by: CHANDRU SM
+#RegisterNumber: 212223230034
 def circulate():
     a=eval(input())
     n=int(input())
